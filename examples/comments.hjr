@@ -1,0 +1,7 @@
+# This line is ignored
+
+show("Comments work!")
+
+# Another comment
+
+show("Done!")
