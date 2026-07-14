@@ -1,6 +1,8 @@
 # 🪨 Hajar Programming Language
 
-Hajar is an experimental open-source programming language written in Python.
+🇺🇸 English | 🇸🇦 [العربية](README_AR.md)
+
+An experimental open-source programming language written in Python.
 
 The project is currently in a very early stage (**v0.1.0-alpha**) and is intended for learning programming language design, interpreters, and compiler development.
 
