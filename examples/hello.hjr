@@ -1,0 +1,4 @@
+# First Hajar program
+
+show("Hello, World!")
+show("Welcome to Hajar!")
